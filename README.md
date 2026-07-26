@@ -6,4 +6,4 @@ title: Menú de Aplicaciones
 
 Selecciona una opción para ver los detalles:
 
-- [Política de Privacidad - Inches and Millimeters](/Inches-and-Milimeters-Terms/privacy-policy.html)
+- [Política de Privacidad - Inches and Millimeters](/Inches-and-Milimeters-Terms/privacy-policy)
