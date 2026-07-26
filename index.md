@@ -1,7 +1,3 @@
----
-layout: default
-title: Menú de Aplicaciones
----
 # Menú de Aplicaciones y Políticas
 
 Selecciona una opción para ver los detalles:
